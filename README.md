@@ -1,6 +1,8 @@
 # `npx hello-sahil`
 
-CLI to print sahil's profile:
+CLI to print Sahil's profile.
+
+Run `npx hello-sahil` in your terminal:
 
 ```
 2023-08-12T20:24:15.615Z INFO Hi I'm Sahil, a Software Engineer based in the UK.
