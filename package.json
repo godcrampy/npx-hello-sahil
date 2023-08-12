@@ -1,0 +1,25 @@
+{
+  "name": "hello-sahil",
+  "version": "1.0.0",
+  "description": "CLI to print sahil's profile",
+  "bin": {
+    "hello-sahil": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godcrampy/npx-hello-sahil.git"
+  },
+  "author": {
+    "name": "Sahil Bondre",
+    "url": "https://godcrampy.github.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godcrampy/npx-hello-sahil/issues"
+  },
+  "homepage": "https://github.com/godcrampy/npx-hello-sahil#readme"
+}
